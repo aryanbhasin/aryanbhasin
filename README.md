@@ -1,16 +1,14 @@
-## Hi there 👋
+# Aryan Bhasin
 
-<!--
-**aryanbhasin/aryanbhasin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Development • Startups**
 
-Here are some ideas to get you started:
+[![Website](https://img.shields.io/badge/aryanbhasin.com-000000?logo=chrome\&logoColor=white)](https://aryanbhasin.com)
+[![GitHub](https://img.shields.io/badge/GitHub-@aryanbhasin-000000?logo=github\&logoColor=white)](https://github.com/aryanbhasin)
+[![X](https://img.shields.io/badge/X-@aryanbhasin__-000000?logo=x\&logoColor=white)](https://x.com/aryanbhasin_)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Currently working on
+
+* **[SEOBaby](https://seobaby.co)** — Drive traffic from AI search
+* **[Recado](https://recado.co)** — Customer service agents for WhatsApp
