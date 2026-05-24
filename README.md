@@ -10,5 +10,6 @@
 
 ## Currently working on
 
+* **[ezscreenshots](https://ezscreenshots.com)** — simple screenshot maker for App Store & Play Store
 * **[SEOBaby](https://seobaby.co)** — Drive traffic from AI search
 * **[Recado](https://recado.co)** — Customer service agents for WhatsApp
